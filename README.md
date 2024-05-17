@@ -18,6 +18,8 @@ Hi, I'm Ralf Animägi. I'm a Computer Science student at the University of Tartu
 [![Node.js][Node.js-img]][Node.js-url]
 [![Express][Express-img]][Express-url]
 [![Docker][Docker-img]][Docker-url]
+[![Kubernetes][Kubernetes-img]][Kubernetes-url]
+
 [![.NET][.NET-img]][.NET-url]
 [![RabbitMQ][RabbitMQ-img]][RabbitMQ-url]
 [![CSS][CSS-img]][CSS-url]
@@ -55,6 +57,8 @@ Feel free to explore my repositories and reach out if you have any questions or 
 [RabbitMQ-url]: https://www.rabbitmq.com/
 [Docker-img]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com/
+[Kubernetes-img]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
+[Kubernetes-url]: https://kubernetes.io/
 [CSS-img]: https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
 [CSS-url]: https://www.w3schools.com/Css/
 
