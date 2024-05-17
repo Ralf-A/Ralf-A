@@ -24,7 +24,7 @@ Hi, I'm Ralf Animägi. I'm a Computer Science student at the University of Tartu
 
 
 ## Interests
-An aspiring full-stack developer, but leaning more to the back-end side. Familiar with techologies listed above, also creating and using various RESTFul APIs, unit testing, deployment, SQL and NOSQL.
+An aspiring full-stack developer, but leaning more to the back-end side. Familiar with techologies listed above, also creating and using various RESTFul APIs, unit testing, deployment, SQL and NoSQL.
 
 I'm always looking to expand my knowledge and take on new challenges. Currently exploring bit of DevOps practices and microservices on the side.
 
