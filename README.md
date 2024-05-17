@@ -5,19 +5,21 @@ Hi, I'm Ralf Animägi. I'm a Computer Science student at the University of Tartu
 ## Skills
 
 ### Languages
-- Java
-- Python
-- JavaScript
-- C#
+[![Java][Java-img]][Java-url]
+[![Python][Python-img]][Python-url]
+[![Javascript][Javascript-img]][Javascript-url]
+[![C#][C#-img]][C#-url]
 
 ### Tech & Frameworks
 [![Spring Boot][Springboot-img]][Springboot-url]
-[![Django][Django-img][Django-url]
+[![Django][Django-img]][Django-url]
 [![React][React-img]][React-url]
 [![Vue][Vue-img]][Vue-url]
-- .NET
-- RabbitMQ
-- Docker
+[![Node.js][Node.js-img]][Node.js-url]
+[![Docker][Docker-img]][Docker-url]
+[![.NET][.NET-img]][.NET-url]
+[![RabbitMQ][RabbitMQ-img]][RabbitMQ-url]
+[![CSS][CSS-img]][CSS-url]
 
 
 ## Interests
@@ -29,7 +31,6 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [Springboot-url]: https://spring.io/projects/spring-boot
 [Springboot-img]: https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 [Django-url]: https://www.djangoproject.com/
@@ -38,3 +39,26 @@ Feel free to explore my repositories and reach out if you have any questions or 
 [React-url]: https://reactjs.org/
 [Vue-img]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
+[Node.js-img]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+[Node.js-url]: https://nodejs.org/en
+[Express-img]: 	https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
+[Express-url]: https://expressjs.com/
+[.NET-img]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
+[.NET-url]: https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet
+[RabbitMQ-img]: https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white
+[RabbitMQ-url]: https://www.rabbitmq.com/
+[Docker-img]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
+[Docker-url]: https://www.docker.com/
+[CSS-img]: https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+[CSS-url]: https://www.w3schools.com/Css/
+
+
+[Javascript-img]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[Javascript-url]: https://www.javascript.com/
+[Java-img]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+[Java-url]: https://www.java.com/en/
+[C#-img]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+[C#-url]: https://dotnet.microsoft.com/en-us/languages/csharp
+[Python-img]: https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+[Python-url]: https://www.python.org/
+
