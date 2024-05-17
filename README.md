@@ -13,8 +13,8 @@ Hi, I'm Ralf Animägi. I'm a Computer Science student at the University of Tartu
 ### Tech & Frameworks
 - Spring Boot
 - Django NinjaAPI
-- React
-- Vue
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
 - .NET
 - RabbitMQ
 - Docker
@@ -26,3 +26,11 @@ While I am most familiar and comfortable with back-end development, I am activel
 I'm always looking to expand my knowledge and take on new challenges.
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[Vue-url]: https://vuejs.org/
