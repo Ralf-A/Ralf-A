@@ -13,8 +13,8 @@ Hi, I'm Ralf Animägi. I'm a Computer Science student at the University of Tartu
 ### Tech & Frameworks
 - Spring Boot
 - Django NinjaAPI
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
+[![React][React.js]][React-url]
+[![Vue][Vue.js]][Vue-url]
 - .NET
 - RabbitMQ
 - Docker
