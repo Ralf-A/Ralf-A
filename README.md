@@ -19,7 +19,6 @@ Hi, I'm Ralf Animägi. I'm a Computer Science student at the University of Tartu
 [![Express][Express-img]][Express-url]
 [![Docker][Docker-img]][Docker-url]
 [![Kubernetes][Kubernetes-img]][Kubernetes-url]
-
 [![.NET][.NET-img]][.NET-url]
 [![RabbitMQ][RabbitMQ-img]][RabbitMQ-url]
 [![CSS][CSS-img]][CSS-url]
