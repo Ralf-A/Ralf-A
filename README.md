@@ -11,10 +11,10 @@ Hi, I'm Ralf Animägi. I'm a Computer Science student at the University of Tartu
 - C#
 
 ### Tech & Frameworks
-- Spring Boot
-- Django NinjaAPI
-[![React][React.js]][React-url]
-[![Vue][Vue.js]][Vue-url]
+[![Spring Boot][Springboot-img]][Springboot-url]
+[![Django][Django-img][Django-url]
+[![React][React-img]][React-url]
+[![Vue][Vue-img]][Vue-url]
 - .NET
 - RabbitMQ
 - Docker
@@ -30,7 +30,11 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[Springboot-url]: https://spring.io/projects/spring-boot
+[Springboot-img]: https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
+[Django-url]: https://www.djangoproject.com/
+[Django-img]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+[React-img]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[Vue-img]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
