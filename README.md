@@ -16,6 +16,7 @@ Hi, I'm Ralf Animägi. I'm a Computer Science student at the University of Tartu
 [![React][React-img]][React-url]
 [![Vue][Vue-img]][Vue-url]
 [![Node.js][Node.js-img]][Node.js-url]
+[![Express][Express-img]][Express-url]
 [![Docker][Docker-img]][Docker-url]
 [![.NET][.NET-img]][.NET-url]
 [![RabbitMQ][RabbitMQ-img]][RabbitMQ-url]
