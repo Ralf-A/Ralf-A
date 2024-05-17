@@ -57,7 +57,7 @@ Feel free to explore my repositories and reach out if you have any questions or 
 [RabbitMQ-url]: https://www.rabbitmq.com/
 [Docker-img]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com/
-[Kubernetes-img]: https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+[Kubernetes-img]: https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white
 [Kubernetes-url]: https://kubernetes.io/
 [CSS-img]: https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
 [CSS-url]: https://www.w3schools.com/Css/
