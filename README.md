@@ -1,6 +1,6 @@
 # About
 
-Hi, I'm Ralf Animägi. I'm a Computer Science student at the University of Tartu, Estonia. I spend my free time developing various projects, experimenting with different technologies, and enhancing my coding skills.
+Hi, I'm Ralf Animägi. I'm a Junior SW Developer at SEB Eesti, and a Computer Science student at the University of Tartu, Estonia. I spend my free time developing various projects, experimenting with different technologies, and enhancing my coding skills.
 
 ## Skills
 
